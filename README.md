@@ -1,4 +1,4 @@
-# 💼 Análisis Financiero por Departamento con SQL y Power BI
+# 💼 Análisis Financiero Empresarial con SQL y Power BI
 
 Este proyecto de Business Intelligence presenta un análisis detallado del **comportamiento presupuestario y de gastos** dentro de una empresa, utilizando herramientas de inteligencia de negocios y consultas SQL para la creación, exploración, limpieza y visualización de datos.
 
